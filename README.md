@@ -15,7 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com/https://inst-fs-iad-prod.inscloudgate.net/files/f7a05ec4-6f98-402e-9ebc-74e00ce24f80/Q-VLSM-img-180410114720.pdf?download=1&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpYXQiOjE3NjA0NjkyNTYsInVzZXJfaWQiOiI5MzYzMDAwMDAwMDI4Mjg2NSIsInJlc291cmNlIjoiL2ZpbGVzL2Y3YTA1ZWM0LTZmOTgtNDAyZS05ZWJjLTc0ZTAwY2UyNGY4MC9RLVZMU00taW1nLTE4MDQxMDExNDcyMC5wZGYiLCJob3N0IjoibHJjY2QuaW5zdHJ1Y3R1cmUuY29tIiwianRpIjoiMDQxODcwYTMtZmFhZC00NGFlLTg5M2EtMjkyMzk3MjY3OTY0IiwiZmFsbGJhY2tfdXJsIjoiaHR0cHM6Ly9scmNjZC5pbnN0cnVjdHVyZS5jb20vY291cnNlcy8yODc2MjIvZmlsZXMvNzQyNDI2MzUvZG93bmxvYWQ_ZmFsbGJhY2tfdHM9MTc2MDUwMDQzMCIsImV4cCI6MTc2MDU1NTY1Nn0.ECy2JNHRBQdRDDmYWCKqNSwjBvIlwfBJmn2Pcy-vDk8DAZkB5hZcvAUph-lLtMzHpnIHTmdRk02VVaZY0dXYoQ">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
